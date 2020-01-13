@@ -1,0 +1,1481 @@
+{
+  "checkbox_on_off": {
+    "on": "ON",
+    "off": "OFF"
+  },
+
+  "custom-select": {
+    "choose": "Выбрать"
+  },
+
+  "input-field": {
+    "phone_number": "номер телефона"
+  },
+
+  "search-block": {
+    "to_search": "Искать",
+    "providers": "Провайдеры",
+    "all": "Все",
+    "enter_query": "Введите запрос",
+    "from": "Поиск от {length} символов",
+    "no_results": "Ничего не найдено",
+    "results": "Результаты поиска",
+    "game_blocked": "<b>Внимание!</b> Недоступно для игры на бонусные деньги"
+  },
+
+  "timer_block": {
+    "days": "дней",
+    "days_abbr": "д.",
+    "hours": "часов",
+    "minutes": "минут",
+    "seconds": "секунд",
+    "running": "Till the end of event.",
+    "status_running": "Running",
+    "upcoming": "Till start of event.",
+    "status_upcoming": "Upcoming",
+    "expired": "Event has been expired.",
+    "status_expired": "Expired"
+  },
+
+  "activity-slider": {
+    "from": "Со ставки",
+    "fund": "призовой фонд",
+    "bonuses_and_actions": "Бонусы и Акции",
+    "bonuses_and_actions_text": "До 200% от суммы депозита на Ваш счет",
+    "cashback": "Cashback",
+    "cashback_text": "Возврат 10% от реального проигрыша",
+    "tournament_more": "Турниры",
+    "lottery_more": "Лотереи"
+  },
+
+  "auth-form": {
+    "through": "Войти через",
+    "standard_authorization": "Стандартная авторизация",
+    "email": "Email",
+    "unlock": "Разблокировать",
+    "password_title": "Пароль",
+    "password_low": "пароль",
+    "login_title": "Войти",
+    "password_forgot": "Забыли пароль",
+    "this_site_protected_with_recaptcha": "Этот сайт защищен с помощью reCAPTCHA от Google",
+    "privacy_policy": "политика конфиденциальности",
+    "and": "и",
+    "terms_of_service": "условия обслуживания",
+    "2FA_timeout": "Время на ввод кода 2FA истекло. Пожалуйста, введите логин-пароль снова",
+    "solve_recaptcha": "Пройдите капчу",
+    "wrong_email_or_password": "Неверный адрес эл. почты или пароль",
+    "wrong_password": "Неверный пароль",
+    "notification_last_attempt": "<b>Внимание!</b> У вас осталась последняя попытка ввода пароля до блокировки учетной записи.",
+    "validation_last_attempt": "Последняя попытка!",
+    "notification_user_blocked": "Ваш аккаунт временно заблокирован.\nИнструкция по разблокировке отправлена на e-mail.",
+    "validation_user_blocked": "Ваш аккаунт заблокирован в целях безопасности после нескольких неудачных попыток входа.",
+    "wrong_captcha": "Некорректная капча. Попробуйте снова.",
+    "something_went_wrong": "Что-то пошло не так. Пожалуйста, попробуйте позже или обратитесь к администратору.",
+    "email_not_found": "Пользователь не найден"
+  },
+
+  "auth-reg-header": {
+    "registration_title": "Регистрация",
+    "step": "шаг",
+    "registration_write": "Зарегистрируйтесь",
+    "registration_choose_your_bonus": "Выберите бонус",
+    "login_entry": "Вход"
+  },
+
+  "bonus-info": {
+    "activation": "Активировать бонус",
+    "bet_max": "Макс. ставка",
+    "static_bet_max": {
+      "EUR": "5&nbsp;€",
+      "USD": "5&nbsp;$",
+      "RUB": "500&nbsp;₽",
+      "KZT": "1&nbsp;500&nbsp;₸",
+      "UAH": "200&nbsp;₴",
+      "SEK": "50&nbsp;SEK",
+      "NOK": "50&nbsp;kr",
+      "PLN": "20&nbsp;zł",
+      "TRY": "20&nbsp;₺"
+    }
+  },
+
+  "bottom-menu": {
+    "help": "Помощь",
+    "search_title": "Поиск",
+    "payments_cancel": "Отмена выплаты",
+    "deposit_title": "Депозит"
+  },
+
+  "calendar-event": {
+    "tournament_title": "Турнир",
+    "lottery_title": "Лотерея",
+    "prize_budget": "Призовой фонд",
+    "join_and_win": "Присоединяйтесь и выигрывайте",
+    "more_info": "Подробнее",
+    "your_place": "Ваше место",
+    "your_tickets": "ваших билетов",
+    "add": "добавить",
+    "you_have_no_tickets": "У вас нет билетов",
+    "gain": "получить",
+    "event_timer_status": {
+      "expired": "Завершен",
+      "lottery_expired": "Завершена",
+      "running": "До окончания осталось:",
+      "lottery_running": "До розыгрыша осталось:",
+      "upcoming": "До начала осталось:"
+    }
+  },
+
+  "confirm-notify": {
+    "email_is_not_confirmed": "Ваш e-mail не подтвержден!",
+    "email_confirm_button": "Подтвердить",
+    "confirmation_email_has_been_sent_to_you": "Вам отправлено письмо с подтверждением",
+    "sent_email_confirmation": "\nПисьмо со ссылкой для подтверждения было отправлено на ваш E-mail. Пожалуйста, перейдите по ссылке, чтобы подтвердить учетную запись.\nЕсли Вы не получили письмо в течение 10 минут, проверьте папку «Спам»"
+  },
+
+  "deposit-bonus": {
+    "bonus_discard_all": "Отказаться от всех бонусов",
+    "show_bonuses": "Показать бонусы",
+    "bonus_code": "бонус-код",
+    "notification_bonus_code_deleted": "Промо код «{code}» отменен!",
+    "notification_bonuses_show_off": "Бонусы отключены",
+    "notification_bonuses_show_on": "Бонусы включены"
+  },
+
+  "event-games": {
+    "show_more": "Показать еще",
+    "hide": "Скрыть",
+    "notification_game_blocked": "<b>Внимание!</b> Недоступно для игры на бонусные деньги"
+  },
+
+  "event-header": {
+    "you_are_not_participated": "ВЫ НЕ УЧАСТВОВАЛИ",
+    "your_place": "Ваше место",
+    "strategy": "Стратегия"
+  },
+
+  "event-info": {
+    "tournament_title": "Турнир",
+    "event_timer_status": {
+      "expired": "Завершен",
+      "lottery_expired": "Завершена",
+      "running": "До окончания осталось:",
+      "lottery_running": "До розыгрыша осталось:",
+      "upcoming": "До начала осталось:"
+    },
+    "lottery_ended": "Лотерея <br/> завершена",
+    "lottery_duration": "Срок действия лотереи",
+    "prize_budget": "Призовой фонд",
+    "accumulative": "Накопительный"
+  },
+
+  "event-info-tournament": {
+    "tournament_title": "Турнир",
+    "event_timer_status": {
+      "expired": "Завершен",
+      "lottery_expired": "Завершена",
+      "running": "До окончания осталось:",
+      "lottery_running": "До розыгрыша осталось:",
+      "upcoming": "До начала осталось:"
+    },
+    "prize_budget": "Призовой фонд",
+    "accumulative": "Накопительный"
+  },
+
+  "event-winners": {
+    "user": "Пользователь",
+    "show_more": "Показать еще",
+    "hide": "Скрыть",
+    "place": "Место"
+  },
+
+  "event-winners-item": {
+    "freespins_count": "фриспинов | фриспин | фриспина | фриспинов"
+  },
+
+  "event-winners-last-tournament": {
+    "participant": "участник",
+    "level": "Уровень",
+    "show_more": "Показать еще",
+    "hide": "Скрыть",
+    "place": "Место"
+  },
+
+  "event-winners-last-tournament-item": {
+    "freespins_count": "фриспинов | фриспин | фриспина | фриспинов"
+  },
+
+  "event-winners-tournament": {
+    "participant": "участник",
+    "show_more": "Показать еще",
+    "hide": "Скрыть",
+    "place": "Место"
+  },
+
+  "event-winners-tournament-item": {
+    "status": "статус",
+    "freespins_count": "фриспинов | фриспин | фриспина | фриспинов"
+  },
+
+  "game-bonus-slider-item": {
+    "bonus_active": "Активный бонус"
+  },
+
+  "game-bottom-icons": {
+    "last_games": "Последние<br>игры",
+    "top_games": "Top<br>игры"
+  },
+
+  "game-deposit": {
+    "fast_replenishment": "Быстрое пополнение",
+    "minimum_amount": "Минимальная сумма",
+    "to_pay": "Оплатить",
+    "go_to_cashier": "Перейти в кассу"
+  },
+
+  "game-top-icons": {
+    "cashbox": "Касса",
+    "authorization": "Авторизация",
+    "registration": "Регистрация"
+  },
+
+  "game-tournament-popup": {
+    "tournament": "Турнир",
+    "game_more": "Игры",
+    "participants": "Участники"
+  },
+
+  "game-list-item": {
+    "game_blocked": "<b>Внимание!</b> Недоступно для игры на бонусные деньги"
+  },
+
+  "tournament-participants": {
+    "participant": "Участники",
+    "score_points": "очки"
+  },
+
+  "game-tournament-slider-item": {
+    "tournament": "Турнир",
+    "prize_fund": "призовой фонд",
+    "your_place": "Ваше место",
+    "you_do_not_participate": "вы не участвуете",
+    "join_in": "Присоединяйтесь",
+    "and_win": "и выиграйте приз",
+    "running": "До окончания осталось:"
+  },
+
+  "games-category-item": {
+    "game_blocked": "<b>Внимание!</b> Недоступно для игры на бонусные деньги"
+  },
+
+  "games-list": {
+    "show_more": "Показать еще"
+  },
+
+  "games-list-card": {
+    "jackpot": "Jackpot",
+    "badge_new": "New",
+    "badge_top": "Top",
+    "badge_hot": "Hot",
+    "add_to_favorites": "Добавить в избранное",
+    "remove_from_favorites": "Удалить из избранного",
+    "demo": "Демо игра",
+    "unavailable_with_active_bonus": "Недоступно при активном бонусе"
+  },
+
+  "games-list-collections-jackpot": {
+    "casino_jackpot": "Casino Jackpot"
+  },
+
+  "games-list-collections-slot": {
+    "slots": "Слоты",
+    "live_dealers": "Live Казино",
+    "collections_filters_table": "Настольные",
+    "video_poker": "Видеопокер",
+    "collections": "Коллекции"
+  },
+
+  "games-list-empty": {
+    "you_have_no_favorite_games": "У Вас нет <b>избранных</b> игр!",
+    "list_no_results": "Не найдено игр, подходящих под ваши условия",
+    "selected_collection": "Категория",
+    "selected_filter": "Подкатегория",
+    "selected_provider": "Провайдер",
+    "selected_type": "Тип",
+    "try_change_combination": "Попробуйте выбрать другое сочетание условий поиска.",
+    "games_with_jackpot": "Игры с <br> джекпотом",
+    "tournament_games": "Турнирные <br> игры",
+    "real_money": "Real money"
+  },
+
+  "games-list-filters": {
+    "games_with_jackpot": "Игры с <br> джекпотом",
+    "tournament_games": "Турнирные <br> игры",
+    "funds_not_available": "Игры, в которых использование бонусных средств невозможно.",
+    "real_money": "Real money",
+    "providers": "Провайдеры"
+  },
+
+  "games-list-filters-left": {
+    "favorites": "Избранное",
+    "all": "Все",
+    "popular": "Популярное",
+    "collections_filters_baccarat": "Баккара и Сик Бо",
+    "collections_filters_blackjack": "Блэкджек",
+    "collections_filters_cinema_collection": "Синема",
+    "collections_filters_craps": "Крепс",
+    "collections_filters_east_collection": "Восток",
+    "collections_filters_fruit_collection": "Фрукты",
+    "collections_filters_game_show": "Игровые шоу",
+    "collections_filters_lobby_live": "Лобби",
+    "collections_filters_man_collection": "Мужчинам",
+    "collections_filters_native_roulette": "По странам",
+    "collections_filters_new": "Новые",
+    "collections_filters_ocean_collection": "Водный мир",
+    "collections_filters_poker": "Покер",
+    "collections_filters_popular": "Популярные",
+    "collections_filters_roulette": "Рулетка",
+    "collections_filters_table": "Настольные",
+    "collections_filters_high_game": "VIP Казино",
+    "filters_games_with_jackpot": "Игры с <br> джекпотом",
+    "filters_tournament_games": "Турнирные <br> игры",
+    "filters_real_money": "Real money",
+    "filters_providers": "Провайдеры"
+  },
+
+  "installation-banner": {
+    "pwa_banner_installation_text": "Наш сайт можно установить на Ваше устройство в качестве приложения.",
+    "install": "Установить"
+  },
+
+  "last-games": {
+    "last_games": "Последние<br>игры",
+    "game_blocked": "<b>Внимание!</b> Недоступно для игры на бонусные деньги"
+  },
+
+  "local-list": {
+    "close": "Закрыть"
+  },
+
+  "logout-confirm": {
+    "logout_confirm": "Покинуть сайт?",
+    "yes": "Да",
+    "no": "Нет"
+  },
+
+  "main-footer": {
+    "to_partners": "Партнёрам",
+    "risk_warning": "Предупреждение о рисках",
+    "privacy_policy": "Политика конфиденциальности",
+    "for_user": "Пользователю",
+    "terms_and_conditions": "Правила и условия",
+    "anti_blocking": "Антиблокировка",
+    "contacts": "Контакты",
+    "coins": "SolCoins",
+    "statuses": "Статусы",
+    "lottery_more": "Лотереи",
+    "tournament_more": "Турниры",
+    "cashback": "Cashback",
+    "license_text": "Информация на сайте предоставлена оператором сайта - компанией Best Entertainment Technologies LTD N.V. Лицензия на проведение онлайн игровых операций №140803 (сублицензия Кюрасао №8048/JAZ2016-050) выдана Antillephone N.V.. Надзор за осуществлением правил лицензии осуществляется и регулируется законодательными нормами Нидерландских Антильских Островов."
+  },
+
+  "missing-data": {
+    "complete_to_deposit": "Завершите регистрацию для совершения платежа",
+    "first_name": "Имя",
+    "last_name": "Фамилия",
+    "last_name_alt": "фамилия",
+    "your_gender": "Ваш пол",
+    "further": "Далее",
+    "date_of_birth": "Дата рождения",
+    "date_of_birth_alt": "дату рождения",
+    "phone": "Телефон",
+    "phone_number": "номер телефона",
+    "chooseCountry": "Выбрать страну",
+    "country_alt": "страну проживания",
+    "notification_denied_change_country": "Для смены страны обратитесь в службу поддержки. В случае изменения страны будет изменён список доступных способов оплаты",
+    "country": "Страна проживания",
+    "go_to_payments": "Перейти к оплате",
+    "registration_title": "Регистрация",
+    "personalization": "Персонализация",
+    "completion": "Завершение",
+    "male": "Муж",
+    "female": "Жен",
+    "specify": "указать",
+    "close": "Закрыть",
+    "confirm": "Подтвердить",
+    "repeat_sms_sending_after": "Повторно отправить СМС можно через",
+    "data_updated_successfully": "Данные успешно обновлены",
+    "wrong_number": "Введите корректный номер телефона",
+    "something_went_wrong": "Что-то пошло не так. Пожалуйста, попробуйте позже или обратитесь к администратору."
+  },
+
+  "one-time-password-form": {
+    "enter_your_onetime_password_google": "Введите одноразовый пароль из приложения Google Authenticator",
+    "opt_attempt": "Код 2FA",
+    "one_time_password_low": "одноразовый пароль",
+    "login_title": "Войти",
+    "2FA_key": "Неверный код 2FA",
+    "something_went_wrong": "Что-то пошло не так. Пожалуйста, попробуйте позже или обратитесь к администратору."
+  },
+
+  "payment-card": {
+    "card_number": "Номер карты",
+    "card_month": "ММ",
+    "no_date": "срок действия",
+    "card_year": "ГГ",
+    "card_holder": "Имя и фамилия",
+    "last_three_digits": "Введите три последних цифры на обратной стороне",
+    "pay": "Оплатить",
+    "btn_currency": "{currency}",
+    "errors_empty_number": "Необходимо указать номер карты",
+    "errors_empty_month": "Укажите месяц",
+    "errors_empty_year": "Укажите год",
+    "errors_empty_holder": "Укажите имя и фамилию",
+    "errors_empty_code": "Код CVC/CVV не введен",
+    "errors_invalid_code": "Код CVC/CVV введен неверно",
+    "errors_card_minlength": "Номер карты указан не полностью",
+    "errors_fail_luhn": "Неправильный номер карты, пожалуйста, проверьте введенный номер",
+    "errors_card_type": "Возможно, вы ошиблись при вводе номера карты. Пожалуйста, укажите карту Visa, Mastercard, Maestro или МИР.",
+    "errors_expired": "Срок действия карты истек. Проверьте ввод или воспользуйтесь другой картой.",
+    "errors_validity": "Укажите срок действия",
+    "errors_deposit_error": "Ошибка пополнения, пожалуйста попробуйте оплатить чуть позже, либо воспользуйтесь другим методом оплаты",
+    "errors_payment_error": "Платеж не был произведен",
+    "loading": "Загрузка...",
+    "recurrent_process": "Пожалуйста, ожидайте. В ближайшее время ваш счет будет пополнен на {amount} {currency}"
+  },
+
+  "payment-cashout-form": {
+    "card_number": "Номер карты",
+    "phone_number": "номер телефона",
+    "recipient": "Получатель",
+    "wallet_address": "Адрес кошелька",
+    "wallet_number": "Номер кошелька",
+    "your_email": "Ваш e-mail",
+    "withdraw": "Вывести",
+    "immediately_min_max": "Немедленно, минимум {min}.00, максимум {max}.00, Платеж в",
+    "further": "Далее",
+    "cashout_success": "Запрос на вывод был получен и требует подтверждения администратора. Запрос будет обработан в кратчайшие сроки.",
+    "not_enough_cashout_money": "Недостаточно средств для совершения операции",
+    "phone_must_be_start": "Номер должен начинаться на +79",
+    "errors_empty_number": "Необходимо указать номер карты",
+    "errors_empty_month": "Укажите месяц",
+    "errors_empty_year": "Укажите год",
+    "errors_empty_holder": "Укажите имя и фамилию",
+    "errors_empty_code": "Код CVC/CVV не введен",
+    "errors_invalid_code": "Код CVC/CVV введен неверно",
+    "errors_card_minlength": "Номер карты указан не полностью",
+    "errors_fail_luhn": "Неправильный номер карты, пожалуйста, проверьте введенный номер",
+    "errors_card_type": "Возможно, вы ошиблись при вводе номера карты. Пожалуйста, укажите карту Visa, Mastercard, Maestro или МИР.",
+    "errors_expired": "Срок действия карты истек. Проверьте ввод или воспользуйтесь другой картой.",
+    "errors_validity": "Укажите срок действия",
+    "errors_deposit_error": "Ошибка пополнения, пожалуйста попробуйте оплатить чуть позже, либо воспользуйтесь другим методом оплаты",
+    "errors_payment_error": "Платеж не был произведен"
+  },
+
+  "payment-deposit-form": {
+    "phone_number": "номер телефона",
+    "your_email": "Ваш e-mail",
+    "account_id": "ID аккаунта",
+    "further": "Далее",
+    "wallet_number": "Номер кошелька",
+    "pay": "Оплатить",
+    "email_empty": "Введите e-mail",
+    "account_id_empty": "Введите ID аккаунта",
+    "recurrent_error": "Произошла ошибка. Повторите попытку позже или свяжитесь со службой поддержки",
+    "loading": "Загрузка...",
+    "piastix_error": "Произошла ошибка, повторите позже",
+    "something_went_wrong": "Что-то пошло не так. Пожалуйста, попробуйте позже или обратитесь к администратору.",
+    "wirecard_init_error": "Ошибка загрузки формы, пожалуйста попробуйте еще раз чуть позже, либо воспользуйтесь другим методом оплаты",
+    "sms_sended": "Вам отправлено СМС с подробной инструкцией для завершения оплаты"
+  },
+
+  "payment-deposit-form-info": {
+    "balance_after_replenishment": "Баланс после пополнения",
+    "excluding": "Без учёта бонусов",
+    "total": "итого",
+    "ticket": "Лотерейный билет",
+    "for": "за депозит",
+    "in_all": "всего"
+  },
+
+  "payment-kazakhstan-iframe": {
+    "general_error": "Произошла ошибка. Попробуйте позже"
+  },
+
+  "payment-recurrent-dropdown": {
+    "new_card": "Новая карта",
+    "new_phone": "Другой номер"
+  },
+
+  "payment-wirecard": {
+    "pay": "Оплатить",
+    "btn_currency": "{currency}",
+    "wirecard_init_error": "Ошибка загрузки формы, пожалуйста попробуйте еще раз чуть позже, либо воспользуйтесь другим методом оплаты",
+    "wirecard_loading": "Ошибка платежа. Обратитесь в службу поддержки, или повторите попытку позже"
+  },
+
+  "payment-area": {
+    "method": "Способ оплаты",
+    "change": "изменить",
+    "cashout_min_amount": "Минимальная сумма для вывода средств у данного способа составляет"
+  },
+
+  "payment-footer": {
+    "your_balance": "Ваш баланс",
+    "will_be": "будет"
+  },
+
+  "payment-providers-list": {
+    "cashout_choose_method": "Выберите способ вывода",
+    "deposit_choose_method": "Способ оплаты",
+    "loading": "Пожалуйста подождите, идет загрузка списка провайдеров оплаты..."
+  },
+
+  "payment-unconfirmed": {
+    "cashout_email_not_confirmed": "Подтвердите адрес электронный почты для завершения операции",
+    "e-mail": "E-mail",
+    "your_email_not_confirmed": "Внимание! Ваш e-mail не подтвержден!",
+    "send_confirmation": "Выслать подтверждение",
+    "sent_email_confirmation": "\nПисьмо со ссылкой для подтверждения было отправлено на ваш E-mail. Пожалуйста, перейдите по ссылке, чтобы подтвердить учетную запись.\nЕсли Вы не получили письмо в течение 10 минут, проверьте папку «Спам»",
+    "email_not_found": "Пользователь не найден",
+    "already_confirmed": "<b>Аккаунт активен</b> Ваш аккаунт уже подтвержден.\nПожалуйста, выполните вход.",
+    "something_went_wrong": "Что-то пошло не так. Пожалуйста, попробуйте позже или обратитесь к администратору."
+  },
+
+  "payment-ws": {
+    "socket_payment_error": "Ошибка платежа. Обратитесь в службу поддержки, или повторите попытку позже",
+    "recurrent_error": "Произошла ошибка. Повторите попытку позже или свяжитесь со службой поддержки",
+    "recurrent_success": "Ваш счет пополнен на {amount} {currency}"
+  },
+
+  "preloader": {
+    "loading": "Загрузка..."
+  },
+
+  "profile-balance-bonus-item": {
+    "bonus_title": "Бонус",
+    "played": "отыграно",
+    "summ": "сумма",
+    "wager": "вейджер",
+    "what": "Что",
+    "this": "это",
+    "wager_info_bonus": "Требуемая сумма ставок для отыгрыша бонуса",
+    "issued": "выдан",
+    "expires_in": "истекает через",
+    "cancel": "отменить",
+    "warning": "Внимание",
+    "cancellation_text": "Отмена бонуса приведет к отмене выигрыша",
+    "yes": "Да",
+    "no": "Нет",
+    "bonus_deleted": "Бонус отменен",
+    "bonus_deleted_failed": "Бонус не удалось отменить"
+  },
+
+  "profile-balance-bonuses": {
+    "currency_rub_short_title": "руб",
+    "currency_eur_short_title": "евро",
+    "currency_usd_short_title": "доллар",
+    "currency_kzt_short_title": "тенге",
+    "currency_nok_short_title": "крона",
+    "currency_pln_short_title": "злотый",
+    "currency_try_short_title": "лира",
+    "currency_uah_short_title": "гривна"
+  },
+
+  "profile-balance-coins-freespins": {
+    "exchange_rate": "курс обмена",
+    "freespin": "FreeSpin",
+    "freespins": "FreeSpins",
+    "exchange_button": "обменять",
+    "exchange_success": "Обмен произведен успешно",
+    "exchange_error": "В процессе обмена произошла ошибка. Пожалуйста, повторите попытку позднее"
+  },
+
+  "profile-balance-coins-lottery": {
+    "lottery_title": "Лотерея",
+    "exchange_rate": "курс обмена",
+    "ticket": "Лотерейный билет",
+    "tickets": "Лотерейные билеты",
+    "exchange_button": "обменять",
+    "exchange_to_tickets_unavailable": "Извините, но сейчас обмен не возможен. Дождитесь начала следующей лотереи.",
+    "exchange_success": "Обмен произведен успешно",
+    "exchange_error": "В процессе обмена произошла ошибка. Пожалуйста, повторите попытку позднее"
+  },
+
+  "profile-balance-coins-money": {
+    "exchange_rate": "курс обмена",
+    "exchange_button": "обменять",
+    "exchange_success": "Обмен произведен успешно",
+    "exchange_error": "В процессе обмена произошла ошибка. Пожалуйста, повторите попытку позднее"
+  },
+
+  "profile-balance-coins": {
+    "sol_coins": "SolCoins",
+    "amount": "количество",
+    "exchange_to": "обменять на",
+    "exchange_to_money": "Деньги",
+    "exchange_to_tickets": "Лотерейные билеты",
+    "exchange_to_freespins": "Фриспины"
+  },
+
+  "profile-balance-currency": {
+    "with_balance": "в том числе<br>бонус",
+    "available_to_cashout": "доступно к выводу",
+    "with_no_restrictions": "без ограничений",
+    "validity": "срок действия",
+    "cashbox": "Касса",
+    "currency_rub_long_title": "российский рубль",
+    "currency_eur_long_title": "евро",
+    "currency_usd_long_title": "американский доллар",
+    "currency_kzt_long_title": "казахстанский тенге",
+    "currency_nok_long_title": "норвежская крона",
+    "currency_pln_long_title": "польский злотый",
+    "currency_try_long_title": "турецкая лира",
+    "currency_uah_long_title": "украинская гривна"
+  },
+
+  "profile-balance-freespins-accordion-content": {
+    "play": "Играть",
+    "participating_games": "Участвующие игры"
+  },
+
+  "profile-balance-freespins-item": {
+    "waiting": "Ожидает",
+    "freespins": "FreeSpins",
+    "amount": "количество",
+    "issued": "выдан",
+    "expires_in": "истекает через",
+    "cancel": "отменить",
+    "warning": "Внимание",
+    "cancellation_text": "Отмена бонуса приведет к отмене выигрыша",
+    "yes": "Да",
+    "no": "Нет",
+    "freespin_deleted": "Фриспин отменен",
+    "freespin_deleted_failed": "Фриспин не удалось отменить"
+  },
+
+  "profile-balance-lotteries-item": {
+    "ticket": "Лотерейный билет",
+    "tickets": "Лотерейные билеты",
+    "amount": "количество",
+    "lottery_title": "Лотерея",
+    "started_at": "началась",
+    "expired_at": "завершается через",
+    "details": "подробности"
+  },
+
+  "profile-bonus": {
+    "more": "Бонусы",
+    "bonuses_more": "больше >",
+    "active": "Активный"
+  },
+
+  "profile-edit-documents": {
+    "document_type": "Тип документа...",
+    "choose_image": "Выберите, или перетащите изображение",
+    "image_format": "Формат: JPG, PNG, PDF",
+    "document_max_size": "Максимальный размер файла: 30мб",
+    "dragover_here": "Отпустите тут",
+    "loading": "Загрузка...",
+    "upload": "Загрузить",
+    "uploaded_documents": "Загруженные документы",
+    "no_uploaded_documents": "Загруженные документы отсутствуют",
+    "passport": "Паспорт",
+    "driving_license": "Водительское удостоверение",
+    "payment_card": "Платежная карта",
+    "utility_bill": "Счет за коммунальные услуги",
+    "other": "Прочее",
+    "document_deleted": "Документ удален",
+    "document_delete_error": "Ошибка удаления документа",
+    "document_to_big": "Превышен максимальный размер файла",
+    "document_uploaded": "Документ успешно загружен!",
+    "something_went_wrong": "Что-то пошло не так. Пожалуйста, попробуйте позже или обратитесь к администратору."
+  },
+
+  "profile-edit-form": {
+    "personal_data": "Личные данные",
+    "nickname": "Никнейм",
+    "e-mail": "E-mail",
+    "confirmed_phone_number": "Подтвержденный номер телефона",
+    "phone_number_upper": "Номер телефона",
+    "phone_number": "номер телефона",
+    "enter_code_from_sms": "Введите код из смс",
+    "warning": "Внимание",
+    "data_not_editable": "После сохранения данных информация в поле станет не доступна для редактирования",
+    "for_making_changes": "Для внесения изменений обратититесь в ",
+    "support_service": "службу поддержки",
+    "first_name": "Имя",
+    "last_name": "Фамилия",
+    "last_name_alt": "фамилию",
+    "chooseCountry": "Выбрать страну",
+    "country_alt": "страну проживания",
+    "denied_change_country": "Для смены страны обратитесь в службу поддержки. В случае изменения страны будет изменён список доступных способов оплаты",
+    "date_of_birth": "Дата рождения",
+    "date_of_birth_alt": "дату рождения",
+    "your_gender": "Ваш пол",
+    "newsletter_subscription": "Подписка на рассылки",
+    "management": "Управление бонусами",
+    "discard_all": "Отказаться от всех бонусов",
+    "show_bonuses": "Показать бонусы",
+    "save": "Сохранить",
+    "male": "Муж",
+    "female": "Жен",
+    "receive_newsletters_label": "Хочу получать системные уведомления",
+    "receive_newsletters_description": "Включите, чтобы получать уведомления о депозитах, выплатах, доступном кешбеке и т.д. Полный контроль над учетной записью.",
+    "receive_promos_label": "Хочу получать письма с акциями и подарками",
+    "receive_promos_description": "Включите, чтобы получать информацию об акциях и спецпредложениях. Вам будут доступны бонусы на депозит, бездепозитные бонусы, фриспины, лотереи.",
+    "receive_sms_promos_label": "Хочу получать SMS уведомления",
+    "receive_sms_promos_description": "Включите, чтобы получать важные уведомления и персональные предложения по SMS",
+    "confirm_email": "Подтвердить e-mail",
+    "your_email_not_confirmed": "Внимание! Ваш e-mail не подтвержден!",
+    "confirm": "Подтвердить",
+    "save_and_confirm": "Сохранить и подтвердить",
+    "delete": "удалить",
+    "sms_limit_reached": "Превышен лимит на отправку СМС. Попробуйте другой номер или повторите попытку позже.",
+    "repeat_sms_sending_after": "Повторно отправить СМС можно через",
+    "code_was_sent": "Код был отправлен на указанный Вами номер",
+    "specify": "указать",
+    "close": "Закрыть",
+    "please_fill_all_fields": "Пожалуйста, заполните все поля",
+    "data_updated_successfully": "Данные успешно обновлены",
+    "wrong_number": "Введите корректный номер телефона",
+    "something_went_wrong": "Что-то пошло не так. Пожалуйста, попробуйте позже или обратитесь к администратору.",
+    "phone_delete": "Номер телефона удален.",
+    "phone_delete_error": "Ошибка во время удаления номера.",
+    "wrong_confirmation_code": "Некорректный код подтверждения",
+    "wrong_code": "Введен неправильный код",
+    "bonuses_show_off": "Бонусы отключены",
+    "bonuses_show_on": "Бонусы включены",
+    "sended_email_confirmation": "\nПисьмо со ссылкой для подтверждения было отправлено на ваш E-mail. Пожалуйста, перейдите по ссылке, чтобы подтвердить учетную запись.\nЕсли Вы не получили письмо в течение 10 минут, проверьте папку «Спам»",
+    "already_confirmed": "<b>Аккаунт активен</b> Ваш аккаунт уже подтвержден.\nПожалуйста, выполните вход."
+  },
+
+  "profile-edit-purses-item": {
+    "delete": "Удалить",
+    "payment_item_removed": "Платёжный способ удалён",
+    "something_went_wrong": "Что-то пошло не так. Пожалуйста, попробуйте позже или обратитесь к администратору."
+  },
+
+  "profile-edit-purses": {
+    "you_havent_saved_methods": "У вас нет сохраненные способы пополнения и вывода"
+  },
+
+  "profile-edit-social-networks": {
+    "accounts_in_social_networks": "",
+    "auth_providers_facebook": "Facebook",
+    "auth_providers_google_oauth2": "Google",
+    "auth_providers_mailru": "Mail.ru",
+    "auth_providers_odnoklassniki": "Odnoklassniki",
+    "auth_providers_twitter": "Twitter",
+    "auth_providers_vkontakte": "Vk",
+    "auth_providers_yandex": "Yandex",
+    "confirmed": "Подтверждён",
+    "not_confirmed": "Не подтверждён",
+    "delete": "удалить",
+    "no_accounts_in_social_networks": "К вашей учётной записи не привязан ни один аккаунт социальной сети",
+    "auth_provider_removed": "Выбранный аккаунт социальной сети был успешно отвязан от вашей учётной записи",
+    "auth_provider_remove_error": "Не удалось отвязать выбранный аккаунт социальной сети"
+  },
+
+  "profile-history-bets-filters": {
+    "from": "с",
+    "to": "по",
+    "bet_amount": "Сумма ставки",
+    "from_alt": "от",
+    "to_alt": "до",
+    "win_amount": "Сумма выигрыша",
+    "filter_by_date": "Фильтровать по дате",
+    "interval_from": "Интервал от",
+    "interval_to": "Интервал до",
+    "filter_by_win_amount": "Фильтровать по сумме выигрыша",
+    "clear_filter": "Очистить фильтр"
+  },
+
+  "profile-history-bets-item": {
+    "date": "дата",
+    "bet_date": "дата ставки",
+    "bet_title": "ставка",
+    "win": "выигрыш",
+    "play_again": "играть снова",
+    "game_blocked": "<b>Внимание!</b> Недоступно для игры на бонусные деньги"
+  },
+
+  "profile-history-bonuses-filters": {
+    "from": "с",
+    "to": "по",
+    "filter_by_date": "Фильтровать по дате",
+    "interval_from": "Интервал от",
+    "interval_to": "Интервал до",
+    "status_all": "Все статусы",
+    "clear_filter": "Очистить фильтр",
+    "activated": "Активирован",
+    "waiting": "Ожидает",
+    "canceled": "Отменен",
+    "lost": "Проигран"
+  },
+
+  "profile-history-accordion-content": {
+    "issued": "выдан",
+    "bet_title": "ставка"
+  },
+
+  "profile-history-bonuses-item": {
+    "bonus_title": "Бонус",
+    "stage_checkbox": "Активирован",
+    "stage_checkbox_tooltip": "Бонус отыгран",
+    "stage_clock": "Ожидает",
+    "stage_clock_tooltip": "Бонус активен",
+    "stage_close": "Отменён",
+    "stage_close_tooltip": "Бонус отменен",
+    "stage_lost": "Проигран",
+    "stage_lost_tooltip": "Истек срок действия",
+    "issued": "выдан",
+    "expires_in": "истекает через",
+    "summ": "сумма",
+    "played": "отыграно",
+    "bet_title": "ставка",
+    "cancel": "отменить",
+    "warning": "Внимание",
+    "cancellation_text": "Отмена бонуса приведет к отмене выигрыша",
+    "yes": "Да",
+    "no": "Нет"
+  },
+
+  "profile-history-calendar": {
+    "close": "Закрыть",
+    "change": "изменить"
+  },
+
+  "profile-history-operations-filters": {
+    "from": "с",
+    "to": "по",
+    "cents_amount": "Сумма",
+    "from_alt": "от",
+    "to_alt": "до",
+    "filter_by_date": "Фильтровать по дате",
+    "interval_from": "Интервал от",
+    "interval_to": "Интервал до",
+    "all_operations": "Все операции",
+    "status_all": "Все статусы",
+    "filter_by_amount": "Фильтровать по сумме",
+    "clear_filter": "Очистить фильтр",
+    "payments_title": "Выплаты",
+    "deposit_title": "Депозит",
+    "operation_status_checkbox": "Выполнена",
+    "operation_status_clock": "Ожидает",
+    "operation_status_close": "Отменена"
+  },
+
+  "profile-history-operations-accordion-content": {
+    "payments_system": "платежная система"
+  },
+
+  "profile-history-operations-pay-sum": {
+    "summ": "сумма"
+  },
+
+  "profile-history-operations-item": {
+    "rub_long_title": "российский рубль",
+    "eur_long_title": "евро",
+    "usd_long_title": "американский доллар",
+    "kzt_long_title": "казахстанский тенге",
+    "nok_long_title": "норвежская крона",
+    "pln_long_title": "польский злотый",
+    "try_long_title": "турецкая лира",
+    "uah_long_title": "украинская гривна",
+    "date": "дата",
+    "operation_status_checkbox": "Выполнена",
+    "operation_status_clock": "Ожидает",
+    "operation_status_close": "Отменена",
+    "operation_type_add": "пополнение",
+    "operation_type_unload": "вывод",
+    "cancel": "отменить",
+    "loading": "Загрузка...",
+    "cashout_cancel_success": "Ваш запрос на выплату {amount} успешно отменен",
+    "general_error": "Произошла ошибка. Попробуйте позже"
+  },
+
+  "profile-lottery-item": {
+    "fund": "призовой фонд",
+    "more_info": "Подробнее",
+    "your_tickets": "ваши билеты"
+  },
+
+  "profile-payout-item": {
+    "waitingPayout": "Ожидает вывода",
+    "loading": "Загрузка...",
+    "cashout_cancel_success": "Ваш запрос на выплату {amount} успешно отменен",
+    "general_error": "Произошла ошибка. Попробуйте позже"
+  },
+
+  "profile-payout": {
+    "status": "Статус выплат"
+  },
+
+  "profile-promocode": {
+    "i_have_not_but_want_to_get": "У меня нет промо-кода, но я хочу его получить!",
+    "learn_how_to_get": "Узнать, как получить",
+    "promo_code_what_is": "Что такое промо-код и как его получить?",
+    "promo_code_is": "Промо-код – это комбинация символов (букв и цифр), которая дает определенные <br>привилегии в виде скидок, бонусов, бесплатных вращений, участий в турнирах и лотереях. Срок действия и<br>количество использований каждого промо-кода ограничены и варьируются в зависимости от правил его <br>предоставления. Получить промо-код можно из email-рассылки или обратившись в службу поддержки.",
+    "promo_activated": "Промо код «{code}» успешно активирован",
+    "promo_already_activated": "Промо код «{code}» уже активирован",
+    "cant_be_blank": "Промо код не может быть пустым",
+    "bonus_activated": "Бонус активирован",
+    "bonus_code_activated": "Бонус будет начислен после внесения депозита. \nНачисление производится автоматически, если промо код «{code}» существует и выполнены все условия его получения.",
+    "bonus_code_deleted": "Промо код «{code}» отменен!"
+  },
+
+  "profile-security-change-password": {
+    "password_change_header": "Изменение пароля",
+    "password_new": "Новый пароль",
+    "password_low": "пароль",
+    "password_new_confirm": "Подтвердите новый пароль",
+    "password_old": "Введите старый пароль",
+    "password_change": "Изменить пароль",
+    "password_player_change_success": "Пароль изменен",
+    "wrong_password": "Неверный пароль",
+    "password_confirmed": "Пароли не совпадают",
+    "password_player_change_error": "Пароль не изменен",
+    "something_went_wrong": "Что-то пошло не так. Пожалуйста, попробуйте позже или обратитесь к администратору."
+  },
+
+  "profile-security-history-item": {
+    "active_session": "Активный сеанс",
+    "close": "Закрыть",
+    "session_delete": "Сессия удалена",
+    "session_delete_failed": "При удалении сессии произошла ошибка",
+    "at": "в"
+  },
+
+  "profile-security-history": {
+    "sessions_history_title": "История активности"
+  },
+
+  "profile-security-two-fa-logos": {
+    "download_from": "Загрузить через"
+  },
+
+  "profile-security-two-fa": {
+    "headers_configure": "Настройка двухфакторной авторизации",
+    "setup_text": "Настройте двухэтапную аутентификацию и создайте новую преграду для злоумышленников!",
+    "setup_text_instructions": "Используйте Google Authenticator на своем мобильном устройстве. Сканируйте QR-код, чтобы начать генерировать одноразовые пароли, или введите секретное слово вручную.",
+    "input_secret_manually": "Или введите секретное слово вручную",
+    "secret": "Секретное слово",
+    "copy_secret": "Нажмите, чтобы скопировать",
+    "auth_code": "Код аутентификации",
+    "confirm": "Подтвердить",
+    "text_copied": "Текст скопирован!",
+    "enable_2FA": "Двухфакторная авторизация включена",
+    "wrong_code": "Введен неправильный код",
+    "something_went_wrong": "Что-то пошло не так. Пожалуйста, попробуйте позже или обратитесь к администратору."
+  },
+
+  "profile-security-two-fa-codes": {
+    "warning": "Внимание",
+    "attention_text": "Не обновляйте, и не закрывайте эту страницу, пока не сохраните данные резервные коды",
+    "attention_text_codes": "Если вы не сможете пользоваться телефоном какое-то время, распечатайте или сохраните резервные коды для входа в аккаунт.",
+    "headers_codes": "Резервные коды"
+  },
+
+  "profile-security-two-fa-cancel": {
+    "headers_cancel": "Отключение двухфакторной авторизации",
+    "headers_cancel_input_label": "Отмена двухфакторной авторизации",
+    "warning": "Внимание",
+    "cancel_text": "Двухфакторная аутентификация включена. Чтобы деактивировать её, введите одноразовый пароль и нажмите «Подтвердить».",
+    "cancel_code": "Одноразовый пароль",
+    "confirm": "Подтвердить",
+    "disable_2FA": "Двухфакторная авторизация отключена",
+    "2FA_cancel_pass_error": "Неверный одноразовый пароль",
+    "something_went_wrong": "Что-то пошло не так. Пожалуйста, попробуйте позже или обратитесь к администратору."
+  },
+
+  "profile-stats": {
+    "stats_status_coins": "статусные<br>SolCoins",
+    "stats_chargeable_coins": "обменные<br>SolCoins",
+    "profile_stats_bonuses": "бонусов<br>доступно",
+    "stats_tournaments": "активных<br>турниров",
+    "stats_lotteries": "лотерейных<br>билетов"
+  },
+
+  "profile-tournaments-item": {
+    "event_timer_status_running": "До окончания осталось:",
+    "event_timer_status_upcoming": "До начала осталось:",
+    "prize_fund": "призовой фонд"
+  },
+
+  "profile-user-card-avatar-change": {
+    "upload_avatar": "Выберите, или перетащите изображение",
+    "upload_avatar_format": "Форматы: PNG, JPG",
+    "document_to_big": "Превышен максимальный размер файла"
+  },
+
+  "profile-user-card": {
+    "status_tooltip_header": "Со статусом {status} Вам доступно:",
+    "status_tooltip_support": "Круглосуточная служба поддержки",
+    "status_tooltip_manager": "Персональный менеджер",
+    "status_tooltip_bonuses": "Индивидуальная бонусная программа",
+    "status_tooltip_exchange_rate": "Курс обмена",
+    "status_tooltip_cashback_wager": "с вейджером",
+    "status_tooltip_birthday_gift": "Подарок в День Рождения",
+    "status_tooltip_statuses_link": "Подробнее о статусах",
+    "email_is_not_confirmed": "Ваш e-mail не подтвержден!",
+    "email_confirm_button": "Подтвердить",
+    "avatar_upload_success": "Аватар изменен",
+    "avatar_upload_failed": "При загрузки аватара произошла ошибка",
+    "avatar_delete_success": "Аватар удален",
+    "avatar_delete_failed": "При удалении аватара произошла ошибка"
+  },
+
+  "promocode-form": {
+    "promo_code_be": "Есть промо-код",
+    "promo_code_have": "Есть",
+    "promo_code_bonus_code": "бонус-код",
+    "promo_code_delete": "Удалить",
+    "promo_code_activate": "Активировать",
+    "promo_code_title": "промо-код",
+    "promo_code_your_promo": "Ваш промо-код",
+    "promo_code_your": "Ваш бонус-код",
+    "empty_promo_code": "Введите код",
+    "promo_activated": "Промо код «{code}» успешно активирован",
+    "promo_already_activated": "Промо код «{code}» уже активирован",
+    "cant_be_blank": "Промо код не может быть пустым",
+    "bonus_activated": "Бонус активирован",
+    "bonus_code_activated": "Бонус будет начислен после внесения депозита. \nНачисление производится автоматически, если промо код «{code}» существует и выполнены все условия его получения.",
+    "bonus_code_deleted": "Промо код «{code}» отменен!"
+  },
+
+  "quick-bar": {
+    "tournament_title": "Турнир",
+    "to_home": "Домой",
+    "profile_title": "Профиль",
+    "favorites": "Избранное",
+    "game_more": "Игры",
+    "cashbox": "Касса",
+    "bonus_more": "Бонусы",
+    "tournament_more": "Турниры",
+    "actions_title": "Акции",
+    "support": "Поддержка",
+    "nav_bar_language_selection": "Выбор языка",
+    "nav_bar_news": "Новости",
+    "faq_title": "FAQ",
+    "our_telegram": "Наш Telegram"
+  },
+
+  "real-time-winners": {
+    "close": "Закрыть",
+    "game_blocked": "<b>Внимание!</b> Недоступно для игры на бонусные деньги"
+  },
+
+  "recent-games-slider-item": {
+    "game_blocked": "<b>Внимание!</b> Недоступно для игры на бонусные деньги"
+  },
+
+  "recent-games-slider": {
+    "you_played": "Вы играли"
+  },
+
+  "reg-bonus-item": {
+    "choose": "Выбрать"
+  },
+
+  "reg-bonus": {
+    "bonus_code": "Бонус код",
+    "bonus_your": "Ваш бонус код",
+    "continue_without_bonus": "Продолжить без бонуса"
+  },
+
+  "reg-from-active-bonus": {
+    "bonus_active": "Активный бонус"
+  },
+
+  "registration-form": {
+    "deposit_double": "Удвоим депозит и подарим до 200FS после регистрации",
+    "login_through": "Войти через",
+    "registration_title": "Регистрация",
+    "email": "Email",
+    "password_title": "Пароль",
+    "bonus_code_capitalize": "Бонус-код",
+    "have_bonus_code": "У меня есть бонусный код",
+    "to_register": "Зарегистрироваться",
+    "receive_SMS": "Получать информацию о персональных акциях и бонусах через e-mail и sms",
+    "over18": "Я старше 18 лет, и я принимаю",
+    "terms_and_conditions": "Правила и условия",
+    "rub_long_title": "российский рубль",
+    "eur_long_title": "евро",
+    "usd_long_title": "американский доллар",
+    "kzt_long_title": "казахстанский тенге",
+    "nok_long_title": "норвежская крона",
+    "pln_long_title": "польский злотый",
+    "try_long_title": "турецкая лира",
+    "uah_long_title": "украинская гривна",
+    "email_confirmation": "Письмо с подтверждением отправлено на почту",
+    "user_already_registered": "Такой пользователь уже зарегистрирован",
+    "validation_email": "Неверный email",
+    "something_went_wrong": "Что-то пошло не так. Пожалуйста, попробуйте позже или обратитесь к администратору.",
+    "promo_activated": "Промо код «{code}» успешно активирован",
+    "promo_already_activated": "Промо код «{code}» уже активирован",
+    "cant_be_blank": "Промо код не может быть пустым",
+    "bonus_code_activated": "Бонус будет начислен после внесения депозита. \nНачисление производится автоматически, если промо код «{code}» существует и выполнены все условия его получения."
+  },
+
+  "welcome-bonus-item": {
+    "disabled": "Недоступен.<br> Снять ограничение на отказ от бонусов",
+    "availability_after_first_deposit": "Доступен после первого депозита",
+    "availability_after_second_deposit": "Доступен после второго депозита",
+    "availability_after_third_deposit": "Доступен после третьего депозита",
+    "availability_after_fourth_deposit": "Доступен после четвертого депозита",
+    "active": "Активный"
+  },
+
+  "welcome-bonus": {
+    "continue_without_bonus": "Продолжить без бонуса"
+  },
+
+  "restore-password-form": {
+    "restore_access": "Восстановление доступа",
+    "password_restore2": "Восстановление пароля",
+    "password_new": "Новый пароль",
+    "password_low": "пароль",
+    "password_new_confirm": "Подтвердите новый пароль",
+    "password_change": "Изменить пароль",
+    "change_password": "Ваш пароль успешно изменен.\n<a href=\"{codeUrl}/signin\">Войдите</a> с новым паролем",
+    "restore_failed_token": "<a href=\"{codeUrl}/restore-password-request\">Запросите повторную отправку ссылки</a>",
+    "restore_unlock_failed": "При разблокировке учетной записи произошла ошибка",
+    "restore_password_failed": "При смене пароля произошла ошибка"
+  },
+
+  "restore-request-form": {
+    "confirm_reg": "Подтверждение регистрации",
+    "password_restore2": "Восстановление пароля",
+    "write_your_mail": "Введите ваш e-mail",
+    "confirm": "Подтвердить",
+    "restore_title": "Восстановить",
+    "password_restore": "Восстановить пароль",
+    "restore_account2": "Активация аккаунта",
+    "solve_recaptcha": "Пройдите капчу",
+    "sended_email_confirmation": "\nПисьмо со ссылкой для подтверждения было отправлено на ваш E-mail. Пожалуйста, перейдите по ссылке, чтобы подтвердить учетную запись.\nЕсли Вы не получили письмо в течение 10 минут, проверьте папку «Спам»",
+    "email_not_found": "Пользователь не найден",
+    "already_confirmed": "<b>Аккаунт активен</b> Ваш аккаунт уже подтвержден.\nПожалуйста, выполните вход.",
+    "wrong_captcha": "Некорректная капча. Попробуйте снова.",
+    "something_went_wrong": "Что-то пошло не так. Пожалуйста, попробуйте позже или обратитесь к администратору.",
+    "restore_password": "На вашу почту отправлена ссылка для восстановления пароля. \nСсылка действительна в течение одного часа",
+    "restore_password_failed_request": "При отправке ссылки для восстановления пароля произошла ошибка"
+  },
+
+  "seo-block": {
+    "sol_casino_header": "Казино Сол (Sol Casino)",
+    "sol_casino_description": "Казино Сол (Sol Casino)",
+    "official_sol_site_header": "Официальный сайт Sol Casino",
+    "official_sol_site_description": "Online казино SOL заслуживает самые лучшие отзывы. Удобная структура разделов, функциональный личный кабинет, яркие баннеры, понятное описание акций, дружелюбный интерфейс, наличие зеркал и впечатляющая коллекция игровых автоматов оставляют у пользователей самые приятные впечатления от взаимодействия с официальным сайтом.",
+    "official_sol_site_description_2": "Игровой контент азартного заведения представляет широкий выбор игр от признанных во всем мире провайдеров, разрабатывающих решения с акцентом на качество графики, сюжетную линию, волатильность и скорость загрузки. Так, на сайте Сол казино Вы можете встретить слоты от таких производителей, как",
+    "and_much_more_brands": "И многие другие бренды, выпускающие лучшие в мире игровые автоматы для онлайн казино.",
+    "types_of_games": "Виды игр",
+    "slots_from_providers": "Слоты от 25 провайдеров",
+    "all_kinds_of_roulette": "Всевозможные версии рулетки",
+    "board_games": "Настольные игры: покер и видеопокер, Blackjack, Baccarat, Craps",
+    "live_dealers_extended": "Живые дилеры: Casino Hold'em, Блэкджек, Баккара, Рулетка",
+    "unregistered_users_demo": "Незарегистрированные пользователи не могут играть на реальные деньги, но имеют доступ к демонстрационной версии игр, доступной для большинства видеослотов",
+    "variations": "Казино Sol – бонусы и их вариации",
+    "verified_users_bonuses": "Сол Казино предусматривает развитую систему поощрений верифицированных игроков: щедрые бонусы, подарки ко Дню Рождения, кэшбэк, поощрительные баллы за активность и регулярные розыгрыши призовых фондов в турнирах и лотереях.<br><br>Как только игрок пополняет баланс своего счета, перед ним открывается большое разнообразие бонусных предложений, позволяющих играть и выигрывать ещё больше!",
+    "for_first": "За первый депозит",
+    "first_deposit": "От {amount} рублей. Бонус {type}: {percent}% на депозит +{fs} FS",
+    "for_starter": "Стартовые – со 2 по 5 депозит от 1000 рублей с возможностью увеличить бонусный счет или получить фриспины",
+    "starter_bonuses": "{percent}% на {number} депозит или {sp} фриспинов",
+    "types_header": "Бонус Bronze, Silver, Gold",
+    "types_description": "Вне зависимости от количества сделанных депозитов, игроки всегда могут воспользоваться постоянно действующими бонусными предложениями, представленными в виде бронзового, серебряного и золотого бонуса, который можно активировать при пополнении счета от 1000, 1500 или 2000 рублей.<br><br>Кроме того, при активации еженедельного бонуса Pharaoh's SET, доступ к которому открывается 1 раз в неделю при совершении депозита от 2500 рублей, игровой счет пополняется на 40% + начисляется 40 фриспинов.",
+    "gift_bonuses_header": "Подарочные и бездепозитные бонусы, фриспины",
+    "gift_bonuses_description": "Подпишитесь на информационную рассылку игрового клуба и получайте персональные предложения прямо на свою  почту. Отзывы подтверждают – SOL Casino не злоупотребляет спам-рассылками и отправляет исключительно полезные для игроков письма: промо-коды на бездепозитные бонусы и бесплатные вращения, ссылки на новое зеркало и уведомления о действующих ивентах.",
+    "casino_local_currency_header": "Внутренняя валюта казино",
+    "casino_local_currency_description": "SolCoins – важный элемент в системе мотивации, позволяющий пользователю выходить на новый уровень игры и получать ценные привилегии, соответствующие его статусу. За проявление активности: депозиты, ставки и победу в специальных акциях – в личном кабинете игрока накапливаются соответствующие поощрительные Баллы программы лояльности – солкоинс, которые можно менять на реальные деньги, лотерейные билеты и фриспины.<br><br>При накоплении определенного количества баллов, статус игрока автоматически повышается, а значит увеличивается cashback и размер денежного подарка от казино ко Дню Рождения пользователя.",
+    "additional": "Среди прочих преимуществ, Вас ждут дополнительные приятные бонусы от заведения",
+    "minimal": "Минимальный депозит: 50 рублей",
+    "immediate_withdrawal": "Моментальный вывод денежных средств",
+    "modern_systems": "Современные платежные системы",
+    "solcoins_for_new_status": "Подарочные расходуемые SolCoins по факту достижения нового статуса",
+    "casino_jackpot_draw": "Розыгрыш джекпота казино",
+    "all_day_support": "Круглосуточная служба поддержка Сол готова прийти на помощь и ответить на любые возникнувшие вопросы. Для связи с агентами саппорта воспользуйтесь диалоговым окном на сайте, позвоните по телефону или напишите письмо."
+  },
+
+  "static-bonuses": {
+    "bet_max": "Макс. ставка",
+    "bet_max_EUR": "5&nbsp;€",
+    "bet_max_USD": "5&nbsp;$",
+    "bet_max_RUB": "500&nbsp;₽",
+    "bet_max_KZT": "1&nbsp;500&nbsp;₸",
+    "bet_max_UAH": "200&nbsp;₴",
+    "bet_max_SEK": "50&nbsp;SEK",
+    "bet_max_NOK": "50&nbsp;kr",
+    "bet_max_PLN": "20&nbsp;zł",
+    "bet_max_TRY": "20&nbsp;₺",
+    "availability": "Доступность",
+    "once_per_week": "1 раз в неделю",
+    "gain": "получить",
+    "birthday": "Дарим деньги в день рождения",
+    "birth_day_text": "Каждое Ваше появление на сайте <span class='orange'><b>Sol Casino</b></span> – праздник для нас, а Ваш день рождения – праздник вдвойне! Получите до <span class='orange'><b><span class='currency-content eur'>1&nbsp;000&nbsp;€</span><span class='currency-content usd'>1&nbsp;000&nbsp;$</span><span class='currency-content uah'>20&nbsp;000&nbsp;₴</span><span class='currency-content rub default'>50&nbsp;000&nbsp;₽</span><span class='currency-content kzt'>250&nbsp;000&nbsp;₸</span><span class='currency-content nok'>7&nbsp;500&nbsp;kr</span><span class='currency-content pln'>2&nbsp;500&nbsp;zł</span><span class='currency-content try'>2&nbsp;500&nbsp;₺</span></b></span> на Ваш счет игрока и испытайте незабываемые эмоции, ведь сумма выигрыша не лимитирована!",
+    "birth_day_statuses_Crystal": "<div class='list__col-1'>Crystal</div><div class='list__col-2'></div><div class='list__col-3'><span class='currency-content eur'>20&nbsp;€</span><span class='currency-content usd'>20&nbsp;$</span><span class='currency-content rub default'>1&nbsp;000&nbsp;₽</span><span class='currency-content kzt'>5&nbsp;000&nbsp;₸</span><span class='currency-content uah'>400&nbsp;₴</span><span class='currency-content nok'>150&nbsp;kr</span><span class='currency-content pln'>50&nbsp;zł</span><span class='currency-content try'>50&nbsp;₺</span></div>",
+    "birth_day_statuses_Quartz": "<div class='list__col-1'>Quartz</div><div class='list__col-2'></div><div class='list__col-3'><span class='currency-content eur'>40&nbsp;€</span><span class='currency-content usd'>40&nbsp;$</span><span class='currency-content rub default'>2&nbsp;000&nbsp;₽</span><span class='currency-content kzt'>10&nbsp;000&nbsp;₸</span><span class='currency-content uah'>800&nbsp;₴</span><span class='currency-content nok'>300&nbsp;kr</span><span class='currency-content pln'>100&nbsp;zł</span><span class='currency-content try'>100&nbsp;₺</span></div>",
+    "birth_day_statuses_Onyx": "<div class='list__col-1'>Onyx</div><div class='list__col-2'></div><div class='list__col-3'><span class='currency-content eur'>60&nbsp;€</span><span class='currency-content usd'>60&nbsp;$</span><span class='currency-content rub default'>3&nbsp;000&nbsp;₽</span><span class='currency-content kzt'>15&nbsp;000&nbsp;₸</span><span class='currency-content uah'>1&nbsp;200&nbsp;₴</span><span class='currency-content nok'>450&nbsp;kr</span><span class='currency-content pln'>150&nbsp;zł</span><span class='currency-content try'>150&nbsp;₺</span></div>",
+    "birth_day_statuses_Agate": "<div class='list__col-1'>Agate</div><div class='list__col-2'></div><div class='list__col-3'><span class='currency-content eur'>100&nbsp;€</span><span class='currency-content usd'>100&nbsp;$</span><span class='currency-content rub default'>5&nbsp;000&nbsp;₽</span><span class='currency-content kzt'>25&nbsp;000&nbsp;₸</span><span class='currency-content uah'>2&nbsp;000&nbsp;₴</span><span class='currency-content nok'>750&nbsp;kr</span><span class='currency-content pln'>250&nbsp;zł</span><span class='currency-content try'>250&nbsp;₺</span></div>",
+    "birth_day_statuses_Topaz": "<div class='list__col-1'>Topaz</div><div class='list__col-2'></div><div class='list__col-3'><span class='currency-content eur'>200&nbsp;€</span><span class='currency-content usd'>200&nbsp;$</span><span class='currency-content rub default'>10&nbsp;000&nbsp;₽</span><span class='currency-content kzt'>50&nbsp;000&nbsp;₸</span><span class='currency-content uah'>4&nbsp;000&nbsp;₴</span><span class='currency-content nok'>1&nbsp;500&nbsp;kr</span><span class='currency-content pln'>500&nbsp;zł</span><span class='currency-content try'>500&nbsp;₺</span></div>",
+    "birth_day_statuses_Opal": "<div class='list__col-1'>Opal</div><div class='list__col-2'></div><div class='list__col-3'><span class='currency-content eur'>300&nbsp;€</span><span class='currency-content usd'>300&nbsp;$</span><span class='currency-content rub default'>15&nbsp;000&nbsp;₽</span><span class='currency-content kzt'>75&nbsp;000&nbsp;₸</span><span class='currency-content uah'>6&nbsp;000&nbsp;₴</span><span class='currency-content nok'>2&nbsp;250&nbsp;kr</span><span class='currency-content pln'>750&nbsp;zł</span><span class='currency-content try'>750&nbsp;₺</span></div>",
+    "birth_day_statuses_Sapphire": "<div class='list__col-1'>Sapphire</div><div class='list__col-2'></div><div class='list__col-3'><span class='currency-content eur'>400&nbsp;€</span><span class='currency-content usd'>400&nbsp;$</span><span class='currency-content rub default'>20&nbsp;000&nbsp;₽</span><span class='currency-content kzt'>100&nbsp;000&nbsp;₸</span><span class='currency-content uah'>8&nbsp;000&nbsp;₴</span><span class='currency-content nok'>3&nbsp;000&nbsp;kr</span><span class='currency-content pln'>1&nbsp;000&nbsp;zł</span><span class='currency-content try'>1&nbsp;000&nbsp;₺</span></div>",
+    "birth_day_statuses_Ruby": "<div class='list__col-1'>Ruby</div><div class='list__col-2'></div><div class='list__col-3'><span class='currency-content eur'>500&nbsp;€</span><span class='currency-content usd'>500&nbsp;$</span><span class='currency-content rub default'>25&nbsp;000&nbsp;₽</span><span class='currency-content kzt'>125&nbsp;000&nbsp;₸</span><span class='currency-content uah'>10&nbsp;000&nbsp;₴</span><span class='currency-content nok'>3&nbsp;750&nbsp;kr</span><span class='currency-content pln'>1&nbsp;250&nbsp;zł</span><span class='currency-content try'>1&nbsp;250&nbsp;₺</span></div>",
+    "birth_day_statuses_Brilliant": "<div class='list__col-1'>Brilliant</div><div class='list__col-2'></div><div class='list__col-3'><span class='currency-content eur'>1&nbsp;000&nbsp;€</span><span class='currency-content usd'>1&nbsp;000&nbsp;$</span><span class='currency-content rub default'>50&nbsp;000&nbsp;₽</span><span class='currency-content kzt'>250&nbsp;000&nbsp;₸</span><span class='currency-content uah'>20&nbsp;000&nbsp;₴</span><span class='currency-content nok'>7&nbsp;500&nbsp;kr</span><span class='currency-content pln'>2&nbsp;500&nbsp;zł</span><span class='currency-content try'>2&nbsp;500&nbsp;₺</span><span class='currency-content aud'></span></div>"
+  },
+
+  "stats-slider": {
+    "statistics": "Статистика"
+  },
+
+  "status-up": {
+    "congratulations": "",
+    "your_new_status": "",
+    "cashback_every_wednesday": "",
+    "birthday_present": "",
+    "close": ""
+  },
+
+  "offline-top": {
+    "data_from": "данные от",
+    "offline": "offline"
+  },
+
+  "top-bar": {
+    "sol_casino_header": "Казино Сол (Sol Casino)",
+    "slots": "Слоты",
+    "live_dealers": "Live Казино",
+    "collections_filters_table": "Настольные",
+    "video_poker": "Видеопокер",
+    "collections": "Коллекции"
+  },
+
+  "members-list": {
+    "status": "статус"
+  },
+
+  "tournament-slider-item": {
+    "tournament_title": "Турнир",
+    "lottery_title": "Лотерея",
+    "participant": "участник",
+    "score_points": "очки",
+    "previous": "Предыдущие",
+    "next": "Следующие",
+    "event_timer_status_running": "До окончания осталось:",
+    "event_timer_status_upcoming": "До начала осталось:"
+  },
+
+  "user-top-deposit": {
+    "deposit_title": "Депозит"
+  },
+
+  "user-top-deposit-popup": {
+    "promo_code_your": "Ваш бонус-код",
+    "pay": "Оплатить",
+    "all_other_methods": "Выбрать другой метод",
+    "close": "Закрыть"
+  },
+
+  "payout-cancel-popup-item": {
+    "waitingPayout": "Ожидает вывода",
+    "cancel": "отменить",
+    "loading": "Загрузка...",
+    "cashout_cancel_success": "Ваш запрос на выплату {amount} успешно отменен",
+    "general_error": "Произошла ошибка. Попробуйте позже"
+  },
+
+  "payout-cancel-popup": {
+    "close": "Закрыть"
+  },
+
+  "user-top-payout-cancel": {
+    "payments_cancel": "Отмена выплаты"
+  },
+
+  "user-top": {
+    "exit": "Выход",
+    "registration_title": "Регистрация",
+    "login_title": "Войти"
+  },
+
+  "routes-actions-cloudbonus": {
+    "cloudbonus_title": "100 мощных <span class='tournaments-lp__banner-title-fill'>фриспинов</span>",
+    "cloudbonus_description": "Эти <span class='tournaments-lp__banner-text--fill'>100 мощных</span> фриспинов Ваши, воин!  Пройдите быструю регистрацию на SOL Casino и получите <span class='tournaments-lp__banner-text--fill'>100 бесплатных вращений</span> в слоте <span class='tournaments-lp__banner-text--fill'>Cloud Quest</span> от Play’n GO!",
+    "cloudbonus_text1": "Боевые характеристики фриспинов:",
+    "cloudbonus_text2": "Ставка: 4 рубля;",
+    "cloudbonus_text3": "Вейджер: 35;",
+    "cloudbonus_text4": "Депозит: не требуется.",
+    "cloudbonus_text5": "Максимальный выигрыш: <span class='orange'>15&nbsp;000&nbsp;</span>RUB",
+    "cloudbonus_text6": "Для получения бонуса<br>подтвердите свой e-mail и телефон",
+    "cloudbonus_text7": "Активируйте супероружие – <span class='orange'>сокровища фэнтези-слота</span> ждут!",
+    "to_register": "Зарегистрироваться",
+    "bonus_get": "Получить бонус"
+  },
+
+  "routes-actions-danludan": {
+    "tournament_title": "Турнир",
+    "danludan_text1": "Эксклюзивный турнир по любимым слотам",
+    "danludan_text2": "Используйте уникальный шанс побороться за банк",
+    "danludan_text3": "от самого популярного стримера Ютуба и",
+    "expired": "Завершен",
+    "lottery_expired": "Завершена",
+    "running": "До окончания осталось:",
+    "lottery_running": "До розыгрыша осталось:",
+    "upcoming": "До начала осталось:",
+    "prize_fund": "призовой фонд",
+    "participant": "участник",
+    "score_points": "очки"
+  },
+
+  "routes-bonus": {
+    "bonus_more": "Бонусы",
+    "instant_benefit": "Мгновенная выгода",
+    "no_bonuses_for_duplicate": "Ваш аккаунт отмечен как дублирующий. Доступность бонусов и иных промо предложений ограничена. Для получения полного доступа к бонусам и акциям обратитесь в службу поддержки."
+  },
+
+  "routes-errors-404": {
+    "whoops": "УПС",
+    "page_not_found": "Запрошенной страницы не существует.",
+    "to_main_page": "На главную"
+  },
+
+  "routes-home": {
+    "account_confirmed": "Ваш аккаунт успешно активирован",
+    "email_is_not_confirmed": "Ваш e-mail не подтвержден!",
+    "account_not_confirmed": "Аккаунт уже подтвержден, или ошибка подтверждения аккаунта",
+    "email_already_confirmed": "Уже подтверждена. Пожалуйста, попробуйте войти в систему"
+  },
+
+  "routes-lottery": {
+    "whoops": "УПС",
+    "connection_issues": "Проблемы с соединением. Пожалуйста, повторите попытку позже.",
+    "to_main_page": "На главную",
+    "lottery_title": "Лотерея",
+    "prize_table": "Таблица призов",
+    "place": "Место",
+    "prize_title": "Приз",
+    "freespins_count": "фриспинов | фриспин | фриспина | фриспинов",
+    "with_bet": "со ставкой",
+    "lottery_winners": "Победители лотереи",
+    "lottery_last_participants": "Победители прошлой лотереи",
+    "prize_more": "Призы",
+    "lottery_conditions": "Условия",
+    "lottery_about_last": "О прошлой лоттерее"
+  },
+
+  "routes-news-page": {
+    "whoops": "УПС",
+    "connection_issues": "Проблемы с соединением. Пожалуйста, повторите попытку позже.",
+    "to_main_page": "На главную",
+    "loading": "Загрузка..."
+  },
+
+  "routes-news": {
+    "news": "Новости",
+    "enter_remaining_info": "Укажите недостающую информацию",
+    "email": "Email",
+    "profile_currency_alt": "валюту",
+    "profile_currency": "Валюта",
+    "update": "Обновить",
+    "rub_long_title": "российский рубль",
+    "eur_long_title": "евро",
+    "usd_long_title": "американский доллар",
+    "kzt_long_title": "казахстанский тенге",
+    "nok_long_title": "норвежская крона",
+    "pln_long_title": "польский злотый",
+    "try_long_title": "турецкая лира",
+    "uah_long_title": "украинская гривна",
+    "profile_please_fill_all_fields": "Пожалуйста, заполните все поля",
+    "something_went_wrong": "Что-то пошло не так. Пожалуйста, попробуйте позже или обратитесь к администратору."
+  },
+
+  "routes-play": {
+    "demo_mode": "Демо режим",
+    "to_register": "Зарегистрироваться",
+    "problems_with_access_to_game": "Проблема с доступом к игре. Пожалуйста, повторите позже.",
+    "no_demo_mode": "Выбранная игра не поддерживается в демо-режиме"
+  },
+
+  "routes-profile-edit": {
+    "saved_methods": "Сохраненные способы пополнения и вывода",
+    "social_networks": "Социальные сети",
+    "document_verification": "Верификация документов"
+  },
+
+  "routes-profile-history-bets": {
+    "bet_no_found": "Не найдено ни одной ставки"
+  },
+
+  "routes-profile-history-bonuses": {
+    "bonus_no_found": "Не найдено ни одного бонуса"
+  },
+
+  "routes-profile-history-operations": {
+    "no_operations_found": "Не найдено ни одной операции ввода/вывода средств.",
+    "cashbox": "Касса"
+  },
+
+  "routes-profile-history": {
+    "operations": "Операции",
+    "bet_more": "Ставки",
+    "bonus_more": "Бонусы"
+  },
+
+  "routes-profile": {
+    "balance": "Баланс",
+    "history": "История",
+    "settings": "Настройки",
+    "security": "Безопасность",
+    "lottery_more": "Лотереи",
+    "tournament_more": "Турниры"
+  },
+
+  "routes-promotions-page": {
+    "whoops": "УПС",
+    "connection_issues": "Проблемы с соединением. Пожалуйста, повторите попытку позже.",
+    "to_main_page": "На главную",
+    "loading": "Загрузка..."
+  },
+
+  "routes-promotions": {
+    "actions_casino": "Акции Sol Casino"
+  },
+
+  "routes-static": {
+    "whoops": "УПС",
+    "connection_issues": "Проблемы с соединением. Пожалуйста, повторите попытку позже.",
+    "to_main_page": "На главную",
+    "loading": "Загрузка..."
+  },
+
+  "routes-tournaments": {
+    "whoops": "УПС",
+    "connection_issues": "Проблемы с соединением. Пожалуйста, повторите попытку позже.",
+    "to_main_page": "На главную",
+    "tournament_title": "Турнир",
+    "prize_more": "Призы",
+    "game_of_tournament": "Игры турнира",
+    "tournament_current_participants": "Участники текущего турнира",
+    "score_points": "очки",
+    "winners": "Победители",
+    "members": "Участники",
+    "tournament_about_last": "О прошлом турнире",
+    "freespins_count": "фриспинов | фриспин | фриспина | фриспинов",
+    "with_bet": "со ставкой"
+  },
+
+  "mixins-payments": {
+    "recurrent_wait": "Заявка на пополнение счета отправлена",
+    "recurrent_process": "Пожалуйста, ожидайте. В ближайшее время ваш счет будет пополнен на {amount} {currency}",
+    "recurrent_success": "Ваш счет пополнен на {amount} {currency}",
+    "recurrent_error": "Произошла ошибка. Повторите попытку позже или свяжитесь со службой поддержки",
+    "card_id_empty": "Пожалуйста, выберете способ депозита",
+    "amount_empty": "Пожалуйста, введите сумму оплаты",
+    "amount_min": "Сумма меньше разрешенного минимума",
+    "amount_max": "Сумма больше разрешенного максимума"
+  },
+
+  "mixins-selectLocale": {
+    "validation_min": "{text} должен быть не меньше {amount} символов",
+    "validation_max": "{text} должен быть не больше {amount} символов",
+    "validation_required_named": "Введите {text}"
+  }
+}
