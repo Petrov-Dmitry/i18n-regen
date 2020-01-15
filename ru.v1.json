@@ -753,7 +753,8 @@
   "game": {
     "title": "Игра",
     "more": "Игры",
-    "top_games": "Top<br>игры",
+    "top_games": "TOP<br>игры",
+    "top_games_alt": "TOP игры",
     "join_and_win": "Присоединяйтесь и выигрывайте",
     "last_games": "Последние<br>игры",
     "of_tournament": "Игры турнира",

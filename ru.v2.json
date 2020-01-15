@@ -222,7 +222,8 @@
 
   "game-bottom-icons": {
     "last_games": "Последние<br>игры",
-    "top_games": "Top<br>игры"
+    "top_games": "TOP<br>игры",
+    "top_games_alt": "TOP игры"
   },
 
   "game-deposit": {
