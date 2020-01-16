@@ -6,10 +6,12 @@ import (
     "log"
     "os"
     "io/ioutil"
+    // "bufio"
     "net/http"
     "strconv"
     "reflect"
     "encoding/json"
+    "strings"
 )
 
 const (
@@ -19,7 +21,7 @@ const (
 )
 
 var (
-    iteratedKeyParents []int
+    iteratedKeyParents []string
     iteratedKeyPath string
 )
 
@@ -96,11 +98,6 @@ func main() {
         // Для каждой найденной строки
         iterate(sourceV2)
         log.Println(" >> source v2 file iterated")
-            // Находим соответствующий строке-v2 ключ-v1 в файле ru.v1.json
-            // По найденному ключу-v1 находим значение перевода строки для локали
-            // Записываем ключ-v2 и перевод строки в файл %locale%.v2.json
-            // Проверяем наличие в логе создания файла записи локаль + ключ-v1 - если находим, то пишем в SQLite лог повторяющихся ключей (их надо будет проверить вручную)
-            // Записываем в SQLite лог создания файла перевода - локаль + ключ-v1 + ключ-v2 + перевод
     }
     fmt.Printf("\n=========================\nTranslations rebuild done\n=========================\n")
 }
@@ -109,7 +106,6 @@ func main() {
 func iterate(data interface{}) interface{} {
     if reflect.ValueOf(data).Kind() == reflect.Slice {
         log.Println("  >>> slise found")
-        os.Exit(1)
         var returnSlice []interface{}
         d := reflect.ValueOf(data)
         tmpData := make([]interface{}, d.Len())
@@ -126,24 +122,33 @@ func iterate(data interface{}) interface{} {
         tmpData := make(map[string]interface{})
         for _, k := range d.MapKeys() {
             // Собираем цепочку родительских ключей
-            if iteratedKeyPath != "" {
-                iteratedKeyPath = iteratedKeyPath + "." + k.String()
-            } else {
-                iteratedKeyPath = k.String()
-            }
+            iteratedKeyParents = append(iteratedKeyParents, k.String())
+            iteratedKeyPath = strings.Join(iteratedKeyParents, ".")
             log.Println("  >>> prarse key", k, "in", iteratedKeyPath)
             typeOfValue := reflect.TypeOf(d.MapIndex(k).Interface()).Kind()
             if typeOfValue == reflect.Map || typeOfValue == reflect.Slice {
                 // Поймали слайс - надо спускаться ниже
-                log.Println("   >>>> that is slise", d.MapIndex(k))
+                // log.Println("   >>>> that is slise", d.MapIndex(k))
                 tmpData[k.String()] = iterate(d.MapIndex(k).Interface())
+                // bufio.NewReader(os.Stdin).ReadBytes('\n')
             } else {
                 // Поймали строку перевода
-                log.Println("   >>>> that is", typeOfValue, d.MapIndex(k))
+                log.Println("   >>>> that is", typeOfValue, iteratedKeyPath, d.MapIndex(k))
                 tmpData[k.String()] = d.MapIndex(k).Interface()
-                // Убираем последний ключ из цепочки родительских ключей
-                iteratedKeyPath = ""
+                // bufio.NewReader(os.Stdin).ReadBytes('\n')
+
+                // Находим соответствующий строке-v2 ключ-v1 в файле ru.v1.json
+                // По найденному ключу-v1 находим значение перевода строки для локали
+                // Записываем ключ-v2 и перевод строки в файл %locale%.v2.json
+                // Проверяем наличие в логе создания файла записи локаль + ключ-v1 - если находим, то пишем в SQLite лог повторяющихся ключей (их надо будет проверить вручную)
+                // Записываем в SQLite лог создания файла перевода - локаль + ключ-v1 + ключ-v2 + перевод
             }
+            // Убираем последний ключ из цепочки родительских ключей
+            if len(iteratedKeyParents) > 0 {
+                iteratedKeyParents = iteratedKeyParents[:len(iteratedKeyParents)-1]
+            }
+            iteratedKeyPath = strings.Join(iteratedKeyParents, ".")
+            // os.Exit(1)
         }
         return tmpData
     }
